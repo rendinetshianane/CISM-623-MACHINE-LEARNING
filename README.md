@@ -1,4 +1,4 @@
-Machine Learning Honours Course Repository
+# Machine Learning Honours Course Repository
 Welcome to my repository containing all assignments, projects, and coursework completed for my Machine Learning Honours course.
 
 Overview
